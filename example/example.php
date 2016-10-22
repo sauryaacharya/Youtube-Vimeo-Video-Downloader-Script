@@ -1,3 +1,4 @@
+<?php
 include_once 'YouTubeDownloader.php';
 include_once 'VimeoDownloader.php';
 include_once 'LinkHandler.php';
