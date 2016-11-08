@@ -1,6 +1,6 @@
 # Youtube-Vimeo-Video-Downloader-Script
 
-This is a script for Youtube and Vimeo video downloader.
+This is a script done by me for Youtube and Vimeo video downloader.
 
 Below is the given example to extract the download link of Youtube and Vimeo. After you got the downlad link you can create your own downloader.
 
